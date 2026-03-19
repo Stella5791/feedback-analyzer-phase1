@@ -1,0 +1,201 @@
+﻿comentario_cliente,tipo_feedback,sentiment,sentiment_intensity,target_entidad_1,target_dimension_1,appraisal_tipo_1,appraisal_valor_1,target_entidad_2,target_dimension_2,appraisal_tipo_2,appraisal_valor_2,cohesion_tipo,impacto_operativo,riesgo_alto,riesgo_motivo,comentario_resumen
+productos que no consiguen en otros lados,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,productos que no consiguen en otros lados
+la variedad y precios,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,la variedad y precios
+Algunos precio buenos,satisfaccion,positivo,media,precio,precio,afecto,positivo,,,,,simple,medio,no,,Algunos precio buenos
+"Excelente atención de la coordinadora de cajas, resolvió un problema de manera sensacional",satisfaccion,positivo,media,caja,atencion,afecto,positivo,,,,,compuesto,medio,no,,"Excelente atención de la coordinadora de cajas, resolvió un problema de manera s"
+Estaría bueno que pongan aire acondicionado porque los chocolates están derretidos,satisfaccion,negativo,media,producto,cadena_frio,apreciacion,negativo,,,,,compuesto,medio,no,,Estaría bueno que pongan aire acondicionado porque los chocolates están derretid
+No encuentro por lo general lo que busco,insatisfaccion,negativo,media,producto,stock,apreciacion,negativo,,,,,simple,medio,si,posible friccion operativa,No encuentro por lo general lo que busco
+"Muy mala atención de la cajera de la caja número 4 de apellido jara, nos trato como basura sumado a que nos cobró mal la mercadería",insatisfaccion,negativo,media,caja,atencion,apreciacion,negativo,,,,,compuesto,medio,no,,"Muy mala atención de la cajera de la caja número 4 de apellido jara, nos trato c"
+Aire acondicionado wi fi,satisfaccion,neutral,baja,tienda,general,apreciacion,neutral,,,,,simple,bajo,no,,Aire acondicionado wi fi
+Por los precios y tarjeta sencosud,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Por los precios y tarjeta sencosud
+la variedad y lo precios,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,la variedad y lo precios
+La variedad de productos,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,La variedad de productos
+La variedad de mercadería,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,La variedad de mercadería
+"Aire acondicionado y vendan bebidas frías. Rotisería, panadería, fiambres al mostrador y carnicería",sugerencia,neutral,baja,tienda,general,apreciacion,neutral,,,,,compuesto,bajo,no,,"Aire acondicionado y vendan bebidas frías. Rotisería, panadería, fiambres al mos"
+la atencion del personal,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,la atencion del personal
+"La caja rápida demora la fila del consumidor final es un cajero menos que atiende a una persona con unas 15 unidades cuando hago una compra con el chango lleno . No entiendo que le den prioridad a estos clientes, cuando estoy esperando haciendo una compra grande .",insatisfaccion,negativo,media,caja,espera_caja,apreciacion,negativo,,,,,compuesto,medio,si,posible friccion operativa,La caja rápida demora la fila del consumidor final es un cajero menos que atiend
+La buena atención de las cajeras,satisfaccion,neutral,baja,caja,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La buena atención de las cajeras
+variedad y precios,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,variedad y precios
+La atención muy buena,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atención muy buena
+La cercanía del lugar.,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,La cercanía del lugar.
+Buenos precios pero traigan gelatina exquisita de frutilla loco delen,satisfaccion,positivo,media,precio,precio,afecto,positivo,,,,,compuesto,medio,no,,Buenos precios pero traigan gelatina exquisita de frutilla loco delen
+"La limpieza me parece impecable, faltaría aire acondicionado",satisfaccion,neutral,baja,tienda,limpieza,apreciacion,neutral,,,,,simple,bajo,no,,"La limpieza me parece impecable, faltaría aire acondicionado"
+La cercanía del local,satisfaccion,neutral,baja,tienda,general,apreciacion,neutral,,,,,simple,bajo,no,,La cercanía del local
+"Los changos, carretas, mucho calor en la tienda pongan aire acondicionado.",insatisfaccion,neutral,baja,tienda,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,"Los changos, carretas, mucho calor en la tienda pongan aire acondicionado."
+Aire acondicionado bajar precio algunas bo,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Aire acondicionado bajar precio algunas bo
+Ofertas atención,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Ofertas atención
+"la variedad,los precios y la comodidad",satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,"la variedad,los precios y la comodidad"
+Las ofertas y los precios,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Las ofertas y los precios
+La atencion calidad ofertas precio promoción para jubilados,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atencion calidad ofertas precio promoción para jubilados
+La calidad todo en general,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,La calidad todo en general
+"Esta mal que no tengan aire acondicionado en verano mucho calor en la tienda, venta de bebidas frías, un detalle para que tengan en cuenta tengan en cuenta las mujeres que entran con carritos de bebe esconden mercadería en ellos. Y venden pilas las cuáles noté que están sin dispositivo de alarma en ningún otro lado ví esto tanta confianza, otro detalle no tienen personal de vigilancia en el salon no hay nadie que esté vigilando.",insatisfaccion,neutral,baja,personal,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,"Esta mal que no tengan aire acondicionado en verano mucho calor en la tienda, ve"
+Precio atención muy buena,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Precio atención muy buena
+La calidad tranquilidad atención,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La calidad tranquilidad atención
+Ofertas y atencion,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Ofertas y atencion
+Los precios y las promociones,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Los precios y las promociones
+Variedad de vasa rubro y marcas de primera linia y marcas propia,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,compuesto,bajo,no,,Variedad de vasa rubro y marcas de primera linia y marcas propia
+"Vendan bebidas frías, panadería",sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,"Vendan bebidas frías, panadería"
+muy buena atención,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,muy buena atención
+La calidad tranquilidad,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,La calidad tranquilidad
+la amabilidad y atencion,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,la amabilidad y atencion
+la atencion y la organizacion,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,la atencion y la organizacion
+Buena pero no hay WiFi para pagar,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Buena pero no hay WiFi para pagar
+"Excelente atención, precios y calidad",satisfaccion,positivo,media,precio,atencion,afecto,positivo,,,,,simple,medio,no,,"Excelente atención, precios y calidad"
+Fui muy bien atendido por sus empleados.,satisfaccion,neutral,baja,personal,general,apreciacion,neutral,,,,,simple,bajo,no,,Fui muy bien atendido por sus empleados.
+La amabilidad y lo servicial,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,La amabilidad y lo servicial
+El orden y limpieza x sobre todo. También el trato del personal siempre q vengo es muy bueno.,satisfaccion,positivo,media,personal,atencion,afecto,positivo,,,,,compuesto,medio,no,,El orden y limpieza x sobre todo. También el trato del personal siempre q vengo
+La variedad de precios,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,La variedad de precios
+Siempre es buena,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Siempre es buena
+Caja rápida de 15 unidades. Sólo con pago de tarjeta y billetera virtual. Y auto facturarse .,sugerencia,neutral,baja,caja,espera_caja,apreciacion,neutral,,,,,compuesto,bajo,no,,Caja rápida de 15 unidades. Sólo con pago de tarjeta y billetera virtual. Y auto
+"Asfalto muchos baches en el estacionamiento, las carretas grandes están viejas , oxidadas y rotas.",sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,compuesto,bajo,no,,"Asfalto muchos baches en el estacionamiento, las carretas grandes están viejas ,"
+"Tienen precios variados,",satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,"Tienen precios variados,"
+Mucho calor pocos cajeros no hay personal de reposicion,sugerencia,neutral,baja,caja,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,Mucho calor pocos cajeros no hay personal de reposicion
+"Muy contento con la atencion de los cajeros, super amables | Muy conforme con la atencion de los cajeros, super amables!!",sugerencia,positivo,media,caja,atencion,afecto,positivo,,,,,compuesto,medio,no,,"Muy contento con la atencion de los cajeros, super amables | Muy conforme con la"
+Todo menos wifi por sacar el libre,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Todo menos wifi por sacar el libre
+"Aire acondicionado mucho calor, vendan bebidas frías para comprar, mejorar los baños que tengan un ingreso diferente entra cualquier persona, más personal de seguridad una sola persona para todo el estacionamiento.",sugerencia,neutral,baja,personal,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,"Aire acondicionado mucho calor, vendan bebidas frías para comprar, mejorar los b"
+La atención y precios,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atención y precios
+Soy clienta habitual,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Soy clienta habitual
+Las rebajas de consumo inmediato,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Las rebajas de consumo inmediato
+Me gusta la atención,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Me gusta la atención
+La atencion calidad ofertas,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atencion calidad ofertas
+Accesibles los precios,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Accesibles los precios
+Atención rapida variedad precio oferta promociones atención espacio comodidad el orden muy bueno,satisfaccion,positivo,media,producto,atencion,afecto,positivo,,,,,compuesto,medio,no,,Atención rapida variedad precio oferta promociones atención espacio comodidad el
+"La caja rápida, tiene que ser solo con billeteras virtuales y no en efectivo, demora bastante al cajero o cajera. Podrían tener en cuenta que sea auto compra como jumbo, easy.",sugerencia,negativo,media,caja,espera_caja,apreciacion,negativo,,,,,compuesto,medio,si,posible friccion operativa,"La caja rápida, tiene que ser solo con billeteras virtuales y no en efectivo, de"
+buena atención y precios,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,buena atención y precios
+Los precios en góndola nunca son diferentes a los de caja,satisfaccion,neutral,baja,caja,espera_caja,apreciacion,neutral,,,,,compuesto,bajo,no,,Los precios en góndola nunca son diferentes a los de caja
+Los precios variados,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Los precios variados
+El orden limpieza calidad atención,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,El orden limpieza calidad atención
+Por lo general compro por la tarde y cada vez que busco un personal de fríos o verdulería no hay nadie que me pueda ayudar,insatisfaccion,neutral,baja,personal,general,apreciacion,neutral,,,,,compuesto,bajo,no,,Por lo general compro por la tarde y cada vez que busco un personal de fríos o v
+Poner WiFi para poder abonar,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Poner WiFi para poder abonar
+La playa llena de cacao de paloma al igual que los carros,insatisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,compuesto,bajo,no,,La playa llena de cacao de paloma al igual que los carros
+La atencion carne precio,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atencion carne precio
+En general todo. Siempre venimos,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,En general todo. Siempre venimos
+Precio oferta promociones verificador. La parte fresca,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Precio oferta promociones verificador. La parte fresca
+La calidad  ofertas atención,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La calidad  ofertas atención
+"Que calor que hace adentro de Makro, pongan aire acondicionado es lo más importante para los clientes que estemos cómodos comprando y disfrutando ese momento y no pensar hacer las compras rápido para salir del calor que hace en la tienda.",insatisfaccion,neutral,baja,tienda,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,"Que calor que hace adentro de Makro, pongan aire acondicionado es lo más importa"
+Lo que es fiambres y limpieza,satisfaccion,neutral,baja,tienda,limpieza,apreciacion,neutral,,,,,simple,bajo,no,,Lo que es fiambres y limpieza
+La calidad precio atención,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La calidad precio atención
+Variedad de productos,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,Variedad de productos
+Más promociones con bancos y WiFi en la tienda,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,compuesto,bajo,no,,Más promociones con bancos y WiFi en la tienda
+variedad y precio,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,variedad y precio
+Aire acondicionado mucho calor,sugerencia,neutral,baja,tienda,cadena_frio,apreciacion,neutral,,,,,simple,bajo,no,,Aire acondicionado mucho calor
+La calidad  ofertas,satisfaccion,neutral,baja,precio,general,apreciacion,neutral,,,,,simple,bajo,no,,La calidad  ofertas
+Marcas propias y buen precio,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,Marcas propias y buen precio
+Precio oferta promociones atención,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Precio oferta promociones atención
+El orden y limpieza. Buenas ofertas,satisfaccion,neutral,baja,precio,limpieza,apreciacion,neutral,,,,,simple,bajo,no,,El orden y limpieza. Buenas ofertas
+Mejorar los carritos todos hechos bolsa,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Mejorar los carritos todos hechos bolsa
+La atención del personal,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atención del personal
+"Demasiado calor en la tienda ,pongan aire acondicionado y bebidas frías para comprar",insatisfaccion,neutral,baja,tienda,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,"Demasiado calor en la tienda ,pongan aire acondicionado y bebidas frías para com"
+"Precios, promociones bancarias, atención en caja",satisfaccion,neutral,baja,caja,atencion,apreciacion,neutral,,,,,simple,bajo,no,,"Precios, promociones bancarias, atención en caja"
+Atención rapida variedad,satisfaccion,neutral,baja,producto,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Atención rapida variedad
+La atención y los precios,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atención y los precios
+"La mejor atención, los mejores precios y muy buena calidad la mercadería",satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,compuesto,bajo,no,,"La mejor atención, los mejores precios y muy buena calidad la mercadería"
+"Baños para los clientes y changos, carretas mantenimiento",sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,"Baños para los clientes y changos, carretas mantenimiento"
+la variedad en productos en cafe y carne,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,la variedad en productos en cafe y carne
+Excelente. Rápida atención en caja. Gracias!,satisfaccion,positivo,media,caja,atencion,afecto,positivo,,,,,simple,medio,no,,Excelente. Rápida atención en caja. Gracias!
+"Todo, atención, precios, todo",satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,"Todo, atención, precios, todo"
+Atención excelente y buenos precios,satisfaccion,positivo,media,precio,atencion,afecto,positivo,,,,,simple,medio,no,,Atención excelente y buenos precios
+la cantidad y variedad de los productos,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,la cantidad y variedad de los productos
+Pésimo que no tenga aire acondicionado todos los súper tienen aire este es el único que no tiene,insatisfaccion,neutral,baja,tienda,general,apreciacion,neutral,,,,,compuesto,bajo,no,,Pésimo que no tenga aire acondicionado todos los súper tienen aire este es el ún
+"hace falta mas publicidad en tv, en las redes, porque tiene muy buenos precios y está en muy buenas condiciones. Nomás le falta aire acondicionado",satisfaccion,positivo,media,precio,precio,afecto,positivo,,,,,compuesto,medio,no,,"hace falta mas publicidad en tv, en las redes, porque tiene muy buenos precios y"
+La atencion calidad ofertas precio oferta,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atencion calidad ofertas precio oferta
+"La atención de los chicos ,ĺa disponible ibilidad de productos",satisfaccion,neutral,baja,producto,atencion,apreciacion,neutral,,,,,compuesto,bajo,no,,"La atención de los chicos ,ĺa disponible ibilidad de productos"
+Pueod llenar el carrito tranquila,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Pueod llenar el carrito tranquila
+Aire acondicionado y venta de bebidas frías,sugerencia,neutral,baja,tienda,general,apreciacion,neutral,,,,,simple,bajo,no,,Aire acondicionado y venta de bebidas frías
+Muy buena atención del área de ventas,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Muy buena atención del área de ventas
+El orden de las mercadería,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,El orden de las mercadería
+"Mantenimiento baños clientes, personal de seguridad en playa, mantenimiento asfalto estacionamiento, aire acondicionado mucho calor en verano.",sugerencia,neutral,baja,personal,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,"Mantenimiento baños clientes, personal de seguridad en playa, mantenimiento asfa"
+Variedad de productos,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,Variedad de productos
+Variedad y precios,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,Variedad y precios
+falta aire de mayorista,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,falta aire de mayorista
+Asfalto estacionamiento y seguridad,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Asfalto estacionamiento y seguridad
+La atención de la cajera sucursal bahia blanca,satisfaccion,neutral,baja,caja,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atención de la cajera sucursal bahia blanca
+Ofertas y atencion,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Ofertas y atencion
+Ofertas y productos,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,Ofertas y productos
+Ofertas atención de clientes,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Ofertas atención de clientes
+Agilidad y orden,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Agilidad y orden
+El calor dentro de la sucursal,insatisfaccion,neutral,baja,general,cadena_frio,apreciacion,neutral,,,,,simple,bajo,no,,El calor dentro de la sucursal
+"Verdulería la balanza es un desastre, mejorar los precios de este sector, mucho calor para la mercadería, climatización en la tienda tener en cuenta.",insatisfaccion,neutral,baja,precio,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,"Verdulería la balanza es un desastre, mejorar los precios de este sector, mucho"
+Cervezas retornable vender y mantenimiento baños clientes,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Cervezas retornable vender y mantenimiento baños clientes
+Descuentos por cantidad,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Descuentos por cantidad
+Mala organización,insatisfaccion,negativo,media,general,general,apreciacion,negativo,,,,,simple,medio,no,,Mala organización
+Esta siempre abierto,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Esta siempre abierto
+Limpieza y atención,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Limpieza y atención
+Buenas ofertas y buena atencion,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Buenas ofertas y buena atencion
+Retiro de efectivo con billetera virtual,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Retiro de efectivo con billetera virtual
+Los productos q bajen un poco,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,Los productos q bajen un poco
+Excelente atención,satisfaccion,positivo,media,personal,atencion,afecto,positivo,,,,,simple,medio,no,,Excelente atención
+Variedad de productos y precio,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,Variedad de productos y precio
+"Buena ubicación de los precios, y tener cuidado con las máquinas que recorren el salon",sugerencia,neutral,baja,precio,precio,apreciacion,neutral,,,,,compuesto,bajo,no,,"Buena ubicación de los precios, y tener cuidado con las máquinas que recorren el"
+Atenci9n de la cajera,satisfaccion,neutral,baja,caja,espera_caja,apreciacion,neutral,,,,,simple,bajo,no,,Atenci9n de la cajera
+Variedad de productos,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,Variedad de productos
+Excelente atencion,satisfaccion,positivo,media,personal,atencion,afecto,positivo,,,,,simple,medio,no,,Excelente atencion
+Las obvio vegetales,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Las obvio vegetales
+Revisar los vencimientos...  Los precios son caras . Y las ofertas  mejorarlas  por los chinos del barrio le ganan . La leche en polvo es más cara  aquí  ...cremigal,sugerencia,neutral,baja,precio,precio,apreciacion,neutral,,,,,compuesto,bajo,no,,Revisar los vencimientos...  Los precios son caras . Y las ofertas  mejorarlas
+Maa la carnes y todo general,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Maa la carnes y todo general
+Ofertas y el espacio para comprar,satisfaccion,neutral,baja,precio,general,apreciacion,neutral,,,,,simple,bajo,no,,Ofertas y el espacio para comprar
+"la organizacion, los precios",satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,"la organizacion, los precios"
+La calidad facilidad para comprar,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,La calidad facilidad para comprar
+Atención rapida . Oferta promociones,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Atención rapida . Oferta promociones
+Billetera virtual no anda modo,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Billetera virtual no anda modo
+"Agregar marcas de quesos punta de agua,noalsa, ramolac, luvianka, araucano, felpita, vual,",sugerencia,neutral,baja,producto,general,apreciacion,neutral,,,,,compuesto,bajo,no,,"Agregar marcas de quesos punta de agua,noalsa, ramolac, luvianka, araucano, felp"
+La calidad  precio  orden,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,La calidad  precio  orden
+la variedad y los productos de la marca propia,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,compuesto,bajo,no,,la variedad y los productos de la marca propia
+Ofertas variedad,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,Ofertas variedad
+Aire acondicionado wi fi marcas q otros lugares no hay,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,compuesto,bajo,no,,Aire acondicionado wi fi marcas q otros lugares no hay
+"El personal de caja no está capacitado para generar un codigo QR de billeteras virtuales, no comprenden que es un fondo fima de pago y se niegan a aprender para poder cobrar una compra importante",insatisfaccion,neutral,baja,caja,espera_caja,apreciacion,neutral,,,,,compuesto,bajo,no,,El personal de caja no está capacitado para generar un codigo QR de billeteras v
+los precios y variedad,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,los precios y variedad
+Aire acondicionado wi fi verificado de precios,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Aire acondicionado wi fi verificado de precios
+Me gusta la atención,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Me gusta la atención
+Precios y atención,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Precios y atención
+"Changos, carretas mantenimiento de los baños , con respecto a los baños tiene que ser exclusivo para clientes, entra cualquier persona porque el estacionamiento los usan como plaza ej andan en bici, juegan a la pelota hasta lo usan de escuela de manejo poryes muy grande el predio. Más personal de seguridad y presencia policial. Muchas motos.",sugerencia,neutral,baja,personal,general,apreciacion,neutral,,,,,compuesto,bajo,no,,"Changos, carretas mantenimiento de los baños , con respecto a los baños tiene qu"
+Por que hay variedad  buenos precios y es rápido  para abonar,satisfaccion,positivo,media,producto,precio,afecto,positivo,,,,,compuesto,medio,no,,Por que hay variedad  buenos precios y es rápido  para abonar
+Precio oferta promociones atención,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Precio oferta promociones atención
+La atención y los precios,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atención y los precios
+Las ofertas q sean de menor cantidad,satisfaccion,neutral,baja,precio,general,apreciacion,neutral,,,,,simple,bajo,no,,Las ofertas q sean de menor cantidad
+Precios están altos,sugerencia,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Precios están altos
+"Personal de vigilancia adentro de la tienda, ví personas consumiendo sin problemas .",sugerencia,negativo,media,personal,general,apreciacion,negativo,,,,,compuesto,medio,si,posible friccion operativa,"Personal de vigilancia adentro de la tienda, ví personas consumiendo sin problem"
+Aire acondicionado wi fi,satisfaccion,neutral,baja,tienda,general,apreciacion,neutral,,,,,simple,bajo,no,,Aire acondicionado wi fi
+La atención los chicos son amables,satisfaccion,positivo,media,personal,atencion,afecto,positivo,,,,,simple,medio,no,,La atención los chicos son amables
+Me gusta la carne es excelente calidad,satisfaccion,positivo,media,general,general,afecto,positivo,,,,,simple,medio,no,,Me gusta la carne es excelente calidad
+Comodidad precios,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Comodidad precios
+"Más changos, seguridad en estacionamiento y dentro del local por mecheros, baños",sugerencia,neutral,baja,tienda,general,apreciacion,neutral,,,,,compuesto,bajo,no,,"Más changos, seguridad en estacionamiento y dentro del local por mecheros, baños"
+Oferta promociones,satisfaccion,neutral,baja,precio,general,apreciacion,neutral,,,,,simple,bajo,no,,Oferta promociones
+"La atención en línea de cajas, la variedad de productos",satisfaccion,neutral,baja,producto,atencion,apreciacion,neutral,,,,,compuesto,bajo,no,,"La atención en línea de cajas, la variedad de productos"
+Super la atención,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Super la atención
+No hay stock variado en bebidas,insatisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,No hay stock variado en bebidas
+Precio más bajó alimento accesible q otro lados,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Precio más bajó alimento accesible q otro lados
+La atencion conforme,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,La atencion conforme
+Variedad de productos,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,Variedad de productos
+Que calor que hace por favor no se puede comprar cómodo pongan aire acondicionado.,insatisfaccion,neutral,baja,tienda,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,Que calor que hace por favor no se puede comprar cómodo pongan aire acondicionad
+Precio oferta promociones atención,satisfaccion,neutral,baja,precio,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Precio oferta promociones atención
+Tener wifi para los clientes,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Tener wifi para los clientes
+Variedad y precios,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,Variedad y precios
+Wi-fi para pagar,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Wi-fi para pagar
+Que no me cobren😂,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Que no me cobren😂
+Los buenos precios¡,satisfaccion,positivo,media,precio,precio,afecto,positivo,,,,,simple,medio,no,,Los buenos precios¡
+mejorar los carteles de precios,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,mejorar los carteles de precios
+Buenas atención buena predisposición de los chicos,satisfaccion,neutral,baja,personal,atencion,apreciacion,neutral,,,,,simple,bajo,no,,Buenas atención buena predisposición de los chicos
+"accesibilidas, surtido de productos, precios",satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,"accesibilidas, surtido de productos, precios"
+La calidad orden.  No me gusta q me cambwl orden se las mercadería.  La amabilidad de la cajera atenta .,satisfaccion,neutral,baja,caja,espera_caja,apreciacion,neutral,,,,,compuesto,bajo,no,,La calidad orden.  No me gusta q me cambwl orden se las mercadería.  La amabilid
+Vengo cada tres meses para proveer mis alimentos. Siempre recibo excelente atención,satisfaccion,positivo,media,personal,atencion,afecto,positivo,,,,,compuesto,medio,no,,Vengo cada tres meses para proveer mis alimentos. Siempre recibo excelente atenc
+No hay tanto ruido em el ambiente. Esta todo ordenado y lleno de mercaderia. Y la caja es rapida. En pandemia compraba en Vital y hoy en dia prefieri mucho mas venir aca!,satisfaccion,neutral,baja,caja,espera_caja,apreciacion,neutral,,,,,compuesto,bajo,no,,No hay tanto ruido em el ambiente. Esta todo ordenado y lleno de mercaderia. Y l
+La iluminación y asfalto del estacionamiento,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,La iluminación y asfalto del estacionamiento
+La amabilidad de los cajeros,satisfaccion,neutral,baja,caja,espera_caja,apreciacion,neutral,,,,,simple,bajo,no,,La amabilidad de los cajeros
+En esta oportunidad notamos mayor variedad de productos,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,En esta oportunidad notamos mayor variedad de productos
+Limpieza descuento orswn,satisfaccion,neutral,baja,tienda,limpieza,apreciacion,neutral,,,,,simple,bajo,no,,Limpieza descuento orswn
+"por calidad ,buem precio",satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,"por calidad ,buem precio"
+La atención de los chicos en caja tienen paciencia de explicar las promociones,satisfaccion,neutral,baja,caja,atencion,apreciacion,neutral,,,,,compuesto,bajo,no,,La atención de los chicos en caja tienen paciencia de explicar las promociones
+Los precios en último trimestre,insatisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,Los precios en último trimestre
+Variedad ofertas,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,Variedad ofertas
+"No hay aire acondicionado,es inhumano hacer una compra con calor",insatisfaccion,neutral,baja,tienda,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,"No hay aire acondicionado,es inhumano hacer una compra con calor"
+"Estamos muertos de calor, no se puede comprar asi. Pongan un aire acondicionado.",sugerencia,neutral,baja,tienda,cadena_frio,apreciacion,neutral,,,,,compuesto,bajo,no,,"Estamos muertos de calor, no se puede comprar asi. Pongan un aire acondicionado."
+Mejorar playa de estacionamiento,sugerencia,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Mejorar playa de estacionamiento
+la variedad y calidad de los productos,satisfaccion,neutral,baja,producto,general,apreciacion,neutral,,,,,simple,bajo,no,,la variedad y calidad de los productos
+por variedad de productos  y precios,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,simple,bajo,no,,por variedad de productos  y precios
+Excelente servicio,satisfaccion,positivo,media,general,general,afecto,positivo,,,,,simple,medio,no,,Excelente servicio
+"tiene muchas cosas buenas, lo único malo es el tema de wifi y señal",satisfaccion,negativo,media,general,general,apreciacion,negativo,,,,,compuesto,medio,no,,"tiene muchas cosas buenas, lo único malo es el tema de wifi y señal"
+Soy clienta habitual,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Soy clienta habitual
+Siempre encuentro algo para aprovechar,satisfaccion,neutral,baja,general,general,apreciacion,neutral,,,,,simple,bajo,no,,Siempre encuentro algo para aprovechar
+A veces no están los precios bien ubicados,satisfaccion,neutral,baja,precio,precio,apreciacion,neutral,,,,,simple,bajo,no,,A veces no están los precios bien ubicados
+Necesitaría más maquina para verificar precio y más marcas de mercaderias,satisfaccion,neutral,baja,producto,precio,apreciacion,neutral,,,,,compuesto,bajo,no,,Necesitaría más maquina para verificar precio y más marcas de mercaderias
